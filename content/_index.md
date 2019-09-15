@@ -14,3 +14,4 @@ Choose your hosting provider to get started:
 {{< link "/install/hetzner" >}}
 {{< link "/install/packet" >}}
 {{< link "/install/openstack" >}}
+{{< link "/install/scaleway" >}}
